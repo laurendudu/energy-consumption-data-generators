@@ -7,7 +7,7 @@ The goal of this project was to study energy consumption data and to create data
 ([Data description from Opne Power Source Data](https://data.open-power-system-data.org/household_data/))
 
 
-The base dataset which is not included in this repository `household_data_1min_singleindex.csv`, can be found [here](https://data.open-power-system-data.org/household_data/). The documentation explaining the data is found on that same link, and additional information can be found on the [GitHub CossMic Project](https://github.com/isc-konstanz/household_data/tree/2020-04-15).
+The base dataset which is not included in this repository `household_data_1min_singleindex.csv`, can be found [here](https://data.open-power-system-data.org/household_data/). The documentation explaining the data is found on that same link, and additional information can be found on the [GitHub CoSSMic Project](https://github.com/isc-konstanz/household_data/tree/2020-04-15).
 
 ## The Notebooks
 
@@ -42,6 +42,7 @@ In this notebook, we will talk about the application of the SARIMA model with th
 * Predictions
 
 ### standard_average.ipynb
+$1 + n$
 
 
 
