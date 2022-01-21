@@ -19,4 +19,4 @@ In this Jupyter Notebook, you will find all the steps we did to obtain the two d
 * ### Rooms Consumption Prediction
 * ### Creation of the Prediction Function
 
-description
+In this section, we will talk about the application of the SARIMA model with the data we have created previously. Based on this analyis, we will be able to study the seasonality and then predict some data based on it.  
