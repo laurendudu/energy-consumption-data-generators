@@ -1,7 +1,9 @@
 # Energy Consumption in Industrial Buildings: Data Analysis and Generation
 
 ## Introduction
-This project studies 
+The goal of this project was to study energy consumption data and to create data generations models from them. The data we have chosen comes from the CoSSMic project, a.k.a. Collaborating Smart Solar-powered Micro-grids.
+
+>This data package contains measured time series data for several small businesses and residential households relevant for household- or low-voltage-level power system modeling. The data includes solar power generation as well as electricity consumption (load) in a resolution up to single device consumption. The starting point for the time series, as well as data quality, varies between households, with gaps spanning from a few minutes to entire days. All measurement devices provided cumulative energy consumption/generation over time. Hence overall energy consumption/generation is retained, in case of data gaps due to communication problems. Measurements were conducted 1-minute intervals, with all data made available in an interpolated, uniform and regular time interval. All data gaps are either interpolated linearly, or filled with data of prior days. Additionally, data in 15 and 60-minute resolution is provided for compatibility with other time series data. Data processing is conducted in Jupyter Notebooks/Python/pandas.
 
 The base dataset which is not included in this repository `household_data_1min_singleindex.csv`, can be found [here](https://data.open-power-system-data.org/household_data/). The documentation explaining the data is found on that same link, and additional information can be found on the [GitHub CossMic Project](https://github.com/isc-konstanz/household_data/tree/2020-04-15).
 
@@ -11,7 +13,7 @@ The base dataset which is not included in this repository `household_data_1min_s
 * Creation of the Daily Dataset
 * Creation of the Hourly Dataset
 
-In this Jupyter Notebook, you will find all the steps we did to obtain the two datasets. Indeed, since we had at the beginning a dataset of the CO2 consumption produced per minutes in different sections of the buildings, we also wanted to have the consumption per hour and per day. The idea behind is to highlight some particluar patterns within the data, for instance cycles. Cyclical phenonomena can appear on the scale of days and/or hours. This will be our focus in the next Jupyter Notebook. 
+In this Jupyter Notebook, you will find all the steps we did to obtain the two datasets. Indeed, since we had at the beginning a dataset of the CO2 consumption produced per minutes in different sections of the buildings, we also wanted to have the consumption per hour and per day. The idea behind is to highlight some particular patterns within the data, for instance cycles. Cyclical phenonomena can appear on the scale of days and/or hours. This will be our focus in [SARIMA_model.ipynb](https://github.com/laurendudu/energy-consumption-data-generators#sarima_modelipynb)
 
 ### stat_descriptive.ipynb
 * Visualization of Missing Values
@@ -21,6 +23,8 @@ In this Jupyter Notebook, you will find all the steps we did to obtain the two d
 * Daily Study
 * Weekly Study
 * Monthly Study
+
+This 
 
 ### SARIMA_model.ipynb
 * Study of the Seasonality : ACF Plots
