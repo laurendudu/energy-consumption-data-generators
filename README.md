@@ -1,4 +1,4 @@
-# Energy Consumption in Industrial Buildings : Data Analysis and Generation
+# Energy Consumption in Industrial Buildings: Data Analysis and Generation
 
 ## Introduction
 This project studies 
