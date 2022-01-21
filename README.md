@@ -12,10 +12,11 @@
 
 description
 
+### SARIMA Model : Data Analysis and Prediction
 
-### test.ipynb
-* title 1
-* title 2
-* title 3
+### SARIMA_model.ipynb
+* ### Study of the Seasonality : ACF Plots
+* ### Rooms Consumption Prediction
+* ### Creation of the function
 
 description
