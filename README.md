@@ -15,7 +15,7 @@ The base dataset which is not included in this repository `household_data_1min_s
 * Creation of the Daily Dataset
 * Creation of the Hourly Dataset
 
-In this Jupyter Notebook, you will find all the steps we did to obtain the two datasets. Indeed, since we had at the beginning a dataset of the CO2 consumption produced per minutes in different sections of the buildings, we also wanted to have the consumption per hour and per day. The idea behind is to highlight some particular patterns within the data, for instance cycles. Cyclical phenonomena can appear on the scale of days and/or hours. This will be our focus in [SARIMA_model.ipynb](https://github.com/laurendudu/energy-consumption-data-generators#sarima_modelipynb)
+In this Jupyter Notebook, you will find all the steps needed to generate the data subsets used in the other notebooks. Indeed, since we had at the beginning a dataset of the CO2 consumption produced per minutes in different sections of the buildings, we also wanted to have the consumption per hour and per day. The idea behind is to highlight some particular patterns within the data, for instance cycles. Cyclical phenonomena can appear on the scale of days and/or hours. This will be our focus in [SARIMA_model.ipynb](https://github.com/laurendudu/energy-consumption-data-generators#sarima_modelipynb)
 
 ### stat_descriptive.ipynb
 * Visualization of Missing Values
@@ -26,7 +26,7 @@ In this Jupyter Notebook, you will find all the steps we did to obtain the two d
 * Weekly Study
 * Monthly Study
 
-This 
+This Notebook was the first step of our reseatch
 
 ### SARIMA_model.ipynb
 * Study of the Seasonality : ACF Plots
@@ -42,7 +42,8 @@ In this notebook, we will talk about the application of the SARIMA model with th
 * Predictions
 
 ### standard_average.ipynb
-$1 + n$
+
+<img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
 
 
 
