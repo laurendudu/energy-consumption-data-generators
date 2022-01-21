@@ -10,7 +10,7 @@
 * ### Creation of the Daily Dataset
 * ### Creation of the Hourly Dataset
 
-In this Jupyter Notebook, you will find all the steps we did to obtain the two datasets. 
+In this Jupyter Notebook, you will find all the steps we did to obtain the two datasets. Indeed, since we had at the beginning a dataset of the CO2 consumption produced per minutes in different sections of the buildings. 
 
 ### SARIMA Model : Data Analysis and Prediction
 
