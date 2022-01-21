@@ -33,7 +33,7 @@ This Notebook was the first step of our reseatch
 * Rooms Consumption Prediction
 * Creation of the Prediction Function
 
-In this notebook, we will talk about the application of the SARIMA model with the data we have created previously. Based on this analyis, we will be able to study the seasonality and then predict some data based on it.  
+In this notebook, we will talk about the application of the SARIMA model with the data we have created previously. Based on this analyis, we will be able to study the seasonality and then predict some data.
 
 
 ### LSTM_lb_12.ipynb
