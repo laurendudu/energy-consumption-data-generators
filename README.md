@@ -10,7 +10,7 @@
 * ### Creation of the Daily Dataset
 * ### Creation of the Hourly Dataset
 
-description
+In this Jupyter Notebook, you will find all the steps we did to obtain the two datasets. 
 
 ### SARIMA Model : Data Analysis and Prediction
 
