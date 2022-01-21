@@ -7,7 +7,7 @@
 ### Data Preprocessing : Creation of the Daily and the Hourly Datasets : 
 
 ### data_preprocessing.ipynb
-* ### Creation of the Daily dataset
+* ### Creation of the Daily Dataset
 * ### Creation of the Hourly Dataset
 
 description
