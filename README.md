@@ -17,6 +17,6 @@ description
 ### SARIMA_model.ipynb
 * ### Study of the Seasonality : ACF Plots
 * ### Rooms Consumption Prediction
-* ### Creation of the function
+* ### Creation of the Prediction Function
 
 description
