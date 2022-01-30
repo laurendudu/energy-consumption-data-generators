@@ -26,7 +26,7 @@ In this Jupyter Notebook, you will find all the steps needed to generate the dat
 * Weekly Study
 * Monthly Study
 
-This Notebook was the first step of our reseatch
+In this notebook you will find some descriptive statistics and a first exploration of the data. 
 
 ### SARIMA_model.ipynb
 * Study of the Seasonality : ACF Plots
@@ -41,9 +41,14 @@ In this notebook, we will talk about the application of the SARIMA model with th
 * LSTM Model
 * Predictions
 
-### standard_average.ipynb
+In this notebook we fit and train an LSTM model using tensorflow. In this particular example, the lookback parameter was 12, but it can be easily changed. 
 
-<img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
+[Source](https://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/)
+
+### standard_average.ipynb
+This notebook uses standard averageing for one-step ahead prediction. 
+
+[Source](https://www.datacamp.com/community/tutorials/lstm-python-stock-market)
 
 
 
