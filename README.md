@@ -41,14 +41,10 @@ In this notebook, we will talk about the application of the SARIMA model with th
 * LSTM Model
 * Predictions
 
-In this notebook we fit and train an LSTM model using tensorflow. In this particular example, the lookback parameter was 12, but it can be easily changed. 
-
-[Source](https://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/)
+In this notebook we fit and train an LSTM model using tensorflow. In this particular example, the lookback parameter was 12, but it can be easily changed. [Source](https://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/)
 
 ### standard_average.ipynb
-This notebook uses standard averageing for one-step ahead prediction. 
-
-[Source](https://www.datacamp.com/community/tutorials/lstm-python-stock-market)
+This notebook uses standard averageing for one-step ahead prediction. [Source](https://www.datacamp.com/community/tutorials/lstm-python-stock-market)
 
 
 
